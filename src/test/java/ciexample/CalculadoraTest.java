@@ -16,6 +16,6 @@ public class CalculadoraTest {
 		Calculadora calculadora = new Calculadora();
 		int soma = calculadora.somar(3, 7);
 		
-		assertEquals(11, soma); 
+		assertEquals(10, soma); 
 	}
 }
